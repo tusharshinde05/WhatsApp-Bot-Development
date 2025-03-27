@@ -10,6 +10,6 @@ Features
 5. Console Logging: Logs received messages and bot status updates for debugging and monitoring.
 
 Tech Stack
-Node.js: Runtime environment for executing JavaScript code.
-whatsapp-web.js: Library for interacting with WhatsApp Web API.
-qrcode-terminal: Displays QR codes in the terminal for authentication.
+1. Node.js: Runtime environment for executing JavaScript code.
+2. whatsapp-web.js: Library for interacting with WhatsApp Web API.
+3. qrcode-terminal: Displays QR codes in the terminal for authentication.
